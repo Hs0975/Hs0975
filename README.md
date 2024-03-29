@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Singh
 - 👀 I’m interested in coding and web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a Web Developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
